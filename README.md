@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img alt="Status: chef's sheet" src="https://img.shields.io/badge/status-chef%27s%20sheet-E33A6A?style=flat-square&labelColor=2C002A">
+  <img alt="Oct 29: taller than the record, fell before 5 s" src="https://img.shields.io/badge/Oct%2029-taller%2C%20fell%20before%205%20s-E33A6A?style=flat-square&labelColor=2C002A">
   <img alt="Record to beat: 42.6 in" src="https://img.shields.io/badge/record%20to%20beat-42.6%20in-FF7AA0?style=flat-square&labelColor=2C002A">
   <img alt="Stop line: 45 in" src="https://img.shields.io/badge/stop%20line-45%20in-BA8BFF?style=flat-square&labelColor=2C002A">
   <img alt="Attempt: Oct 29, 2026" src="https://img.shields.io/badge/attempt-Oct%2029%2C%202026-FFBD7A?style=flat-square&labelColor=2C002A">
@@ -24,10 +24,10 @@
 
 Pancake hit #1 Product of the Day on Product Hunt on Oct 14, 2026. We'd promised a world record if it did.
 
-So we're open-sourcing our full stack. On Oct 29 we stack pancakes in San Francisco, live, and everything we know goes here first: the recipe, the build protocol, the math. Copy it. Beat us.
+So we open-sourced our full stack. On Oct 29 we stacked pancakes in San Francisco, live: the recipe, the build protocol, the math, all here. Copy it. Beat us.
 
 > [!IMPORTANT]
-> **v2.0.0 is our chef's sheet**, the quantities we cook on Oct 29. Thickness is his estimate until the stack-of-10 on the day; measured numbers land in [TESTLOG.md](TESTLOG.md).
+> **We didn't get the record.** On Oct 29 our tower got about 1.5 cm (0.6 in) past the 42.6 in record, two or three pancakes higher. It was leaning, someone had to steady it, and once we let go it fell within a second. Taller than the record, but a record has to stand on its own. One attempt, and not a single pancake hit the floor. What went wrong and what we'd change is in [TESTLOG.md](TESTLOG.md). The recipe below is exactly what we cooked.
 
 ## The numbers
 

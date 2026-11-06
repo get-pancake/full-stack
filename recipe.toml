@@ -4,7 +4,7 @@
 
 [meta]
 version = "2.0.0"
-status = "chef-sheet"        # the chef's numbers for Oct 29. Set "validated" once the stack-of-10 is measured
+status = "attempted"         # Oct 29: ~0.6 in over the record, fell when let go. Not a record. See TESTLOG.md
 source = "Chef's quantity sheet, Oct 28, 2026 (Candido Blanco)"
 
 [event]
